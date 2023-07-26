@@ -2,7 +2,7 @@
 - 👀 I’m interested in art andcrafts
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
-- 📫 How to reach me outlook
+- 📫 How to reach me  on outlook
 
 <!---
 sharon641/sharon641 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
